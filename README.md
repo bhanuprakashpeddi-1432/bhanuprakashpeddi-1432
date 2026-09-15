@@ -26,7 +26,7 @@ I'm a **Computer Science undergraduate** at KL Deemed to be University (CGPA: **
 ## 🏆 Certifications
 
 - ✅ **Red Hat Certified Enterprise Application Developer**
-- ✅ **Salesforce AI Associate**
+- ✅ **MongoDB Associate Developer**
 
 ---
 
